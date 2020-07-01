@@ -6,3 +6,4 @@ A preview of the Jupyter Notebooks of this repository can be obtained, for insta
 - Coursera_Capstone
   - [Foursquare_project.ipynb](https://nbviewer.jupyter.org/github/angelodm/Coursera_Capstone/blob/master/Foursquare_project.ipynb)
   - Toronto_clustering
+    - kfjff
