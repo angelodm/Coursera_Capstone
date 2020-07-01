@@ -12,4 +12,4 @@ A preview of the Jupyter Notebooks of this repository can be obtained, for insta
   - [clustering_neighborhoods_Toronto_2_.ipynb](https://nbviewer.jupyter.org/github/angelodm/Coursera_Capstone/blob/master/Toronto_clustering/clustering_neighborhoods_Toronto_2_.ipynb)
   - [clustering_neighborhoods_Toronto_final_.ipynb](https://nbviewer.jupyter.org/github/angelodm/Coursera_Capstone/blob/master/Toronto_clustering/clustering_neighborhoods_Toronto_final_.ipynb)
 
-### AngeloDM
+### --- AngeloDM ---
