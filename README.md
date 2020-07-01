@@ -3,7 +3,10 @@ This repository contains the Jupyter Notebooks of my **Coursera Capstone Project
 
 ## Content
 A preview of the Jupyter Notebooks of this repository can be obtained, for instance, via the Notebook viewer [nbviewer](https://nbviewer.jupyter.org) by clicking on the links listed below:
-- Coursera_Capstone
-  - [Foursquare_project.ipynb](https://nbviewer.jupyter.org/github/angelodm/Coursera_Capstone/blob/master/Foursquare_project.ipynb)
-  - Toronto_clustering
-    - kfjff
+
+- [Foursquare_project.ipynb](https://nbviewer.jupyter.org/github/angelodm/Coursera_Capstone/blob/master/Foursquare_project.ipynb)
+
+- Toronto_clustering
+  - [clustering_neighborhoods_Toronto_1_.ipynb](https://nbviewer.jupyter.org/github/angelodm/Coursera_Capstone/blob/master/Toronto_clustering/clustering_neighborhoods_Toronto_1_.ipynb)
+  - [clustering_neighborhoods_Toronto_2_.ipynb](https://nbviewer.jupyter.org/github/angelodm/Coursera_Capstone/blob/master/Toronto_clustering/clustering_neighborhoods_Toronto_2_.ipynb)
+  - [clustering_neighborhoods_Toronto_final_.ipynb](https://nbviewer.jupyter.org/github/angelodm/Coursera_Capstone/blob/master/Toronto_clustering/clustering_neighborhoods_Toronto_final_.ipynb)
