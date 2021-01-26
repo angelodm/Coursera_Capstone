@@ -2,7 +2,7 @@
 
 ### --- AngeloDM ---
 
-This repository contains the Jupyter Notebooks of my **Coursera Capstone Project** as final assignment of the _IBM Data Science Professional Certificate_ issued by [Coursera.org](https://www.coursera.org).
+This repository contains the Jupyter Notebooks of my **Coursera Capstone Project** as final assignment of the _IBM Data Science Professional Certificate_ issued by [Coursera.org](https://www.coursera.org) as well as the [final report](https://github.com/angelodm/Coursera_Capstone/blob/master/San-Francisco_venues%26crimes/coursera_capstone-final_report.pdf).
 
 ## Content
 A preview of the Jupyter Notebooks of this repository can be obtained, for instance, via the Notebook viewer [nbviewer](https://nbviewer.jupyter.org) by clicking on the links listed below:
